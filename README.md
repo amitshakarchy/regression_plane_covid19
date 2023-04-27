@@ -6,12 +6,16 @@ There is a need for fast identification of potential treatments for COVID-19 in 
 
 
 <p align="center">
-<img src="supplementary/RP.png"  width=40%>
+<img src="supplementary/RP.png"  width=100%>
 </p>
 
 
+##Projection of treatments to the Regression Plane
 
+projection of specific treatment’s samples to the Regression Plane. The size of a single point represents the dosage of the examined compound.
 
-
+<p align="center">
+<img src="supplementary/RP2.png"  width=100%>
+</p>
 
 
